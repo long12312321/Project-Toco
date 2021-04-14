@@ -34,11 +34,10 @@
                 <div class="col">
                 </div>
                 <div class="col text-center">
-                   
                         <input type = "text" name = "acc1" placeholder="Tài Khoản" required> <br><br>
                         <input type = "password" name = "pass1" placeholder="Mật Khẩu" required> <br><br>
                         <input type ="submit" class="btn btn-success" value= "Đăng nhập"> <br><hr>
-                        Bạn chưa có tài khoản ?<a href="addAccount" >Đăng kí</a>
+                        Bạn chưa có tài khoản ?<a href="Register" >Đăng kí</a>
                 </div>
             </div>
             </form>
